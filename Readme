@@ -1,0 +1,4 @@
+mail send --sender sender@gmail.com --password Password --receiver receiver@gmail.com --subject Subject --message "Hello World"
+
+
+mail send sender@gmail.com Password receiver@gmail.com Subject "Hello World"
